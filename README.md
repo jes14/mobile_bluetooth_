@@ -2,7 +2,7 @@
 
 📅 2020-08
 
-🛠 Libraries/tools
+🛠 Built with/Using
 * Rasberrypi
 * Flutter
 * Bluetooth connection
