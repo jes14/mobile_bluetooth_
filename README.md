@@ -1,21 +1,21 @@
-# -mobile_bluetooth_
+# mobile bluetooth app
 
-     title: "Flutter dev challeange"
-        date: 2020-08-31
-        tags:
-        - Flutter
-        - Native app
-        slug: "/flutter-dev"
-        canonicalUrl: "https://random-blog-about-curses.com"
-        ---
+📅 2020-08
 
-        ### Motivation
-        Interested in flutter 
+🛠 Libraries/tools
+* Rasberrypi
+* Flutter
+* Bluetooth connection
 
-        ### Period
-        2020 - current
+## About this app
 
-        ### Technology used
-        * Rasberrypi
-        * Flutter
-        * Bluetooth connection
+TBD
+
+## What I did
+
+TBD
+
+
+
+
+    
