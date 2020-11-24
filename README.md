@@ -1,9 +1,10 @@
 # Dart score app
 
-📅 07.2020 - 08.2020
+## Project duration 📅 
+07.2020 - 08.2020
 
-🛠 Built with/Using
 
+## Built with/Using 🛠 
 * Rasberrypi
 * Flutter
 * Bluetooth connection
