@@ -1,8 +1,9 @@
-# mobile bluetooth app
+# Dart score app
 
-📅 2020-08
+📅 07.2020 - 08.2020
 
 🛠 Built with/Using
+
 * Rasberrypi
 * Flutter
 * Bluetooth connection
